@@ -1,2 +1,2 @@
-# Book Name: The Joy Of Not Working
+# Book Name: Siddharta
 Goals: Read Chapter 1 & 2
